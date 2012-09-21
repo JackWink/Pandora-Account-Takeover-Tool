@@ -21,3 +21,6 @@ If you want to POST the value to another server, or change the listening port, e
 This will run MITMProxy (127.0.0.1:8080 by default) and a tornado service (127.0.0.1:8000)
 
 To test if it's working, point your browser's proxy to 127.0.0.1:8080, navigate to pandora.com.  Your account should then have it's password changed to 'stolen'.
+
+
+NOTICE:  DON'T BE EVIL.  THIS IS A PROOF OF CONCEPT AND SHOULDN'T BE ABUSED.  USE AS YOU WISH, BUT ACT ON YOUR OWN BEHALF.  YOU ARE RESPONSIBLE FOR YOUR OWN MISUSE.
