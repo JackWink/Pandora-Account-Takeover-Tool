@@ -1,5 +1,7 @@
 # PATT: Pandora Account Takeover Tool
 
+Pandora doesn't require you to use the old password to set a new one.  It also loads most resources over HTTP.  A simple MITM attack will let us take over accounts on our network.
+
 PATT will inject a small bit of script to take over pandora accounts who are on the proxy network.
 
 Just run the web.py script and it runs MITMProxy with a custom script.  As accounts get taken over, it will notify you in the terminal.
