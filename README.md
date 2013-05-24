@@ -1,3 +1,7 @@
+# Fixed by Pandora!
+
+Pandora now requires you to enter your current password to change your password.
+
 # PATT: Pandora Account Takeover Tool
 
 Pandora doesn't require you to use the old password to set a new one.  It also loads most resources over HTTP.  A simple MITM attack will let us take over accounts on our network.
